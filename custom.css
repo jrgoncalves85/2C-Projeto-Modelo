@@ -1,0 +1,22 @@
+/*
+    Folha de estilo para site pessoal versão bootstrap
+    Desenvolvido por Júnior Gonçalves em 01/03/2022
+*/
+
+body {
+    padding-top: 8rem;
+    font-family: 'Open Sans', sans-serif;
+}
+nav ul li a {
+    color: #666!important;
+    font-size: 1.2rem;
+    text-align: right;
+    text-transform: uppercase;
+	text-decoration: none;
+}
+nav ul li a:hover {
+    text-shadow: 1px 1px 5px #CCC;
+}
+.nav-link{
+    padding-left: 5rem!important;
+}

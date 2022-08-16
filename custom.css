@@ -20,3 +20,25 @@ nav ul li a:hover {
 .nav-link{
     padding-left: 5rem!important;
 }
+#perfil {
+    background-color: #1d6f6b;
+    color: #FFF;
+    padding: 2rem 0 1rem;
+}
+h1 {
+    font-family: 'Kaushan Script';
+    padding-top: 3rem;
+    font-size: 4rem;
+    letter-spacing: 0.25rem;
+    font-weight: 700;
+}
+.float-right {
+    float: right!important;
+}
+.lead{
+    font-size: 1.5rem;
+    font-style: italic;
+}
+.icons a{
+    display: inline-block;
+}

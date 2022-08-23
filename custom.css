@@ -17,7 +17,7 @@ nav ul li a {
 nav ul li a:hover {
     text-shadow: 1px 1px 5px #CCC;
 }
-.nav-link{
+.nav-link {
     padding-left: 5rem!important;
 }
 #perfil {
@@ -35,10 +35,10 @@ h1 {
 .float-right {
     float: right!important;
 }
-.lead{
+.lead {
     font-size: 1.5rem;
     font-style: italic;
 }
-.icons a{
+.icons a {
     display: inline-block;
 }

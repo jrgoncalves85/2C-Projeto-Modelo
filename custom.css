@@ -42,3 +42,17 @@ h1 {
 .icons a {
     display: inline-block;
 }
+#destaques {
+    background-color: #ccd3db;
+}
+.card-text{
+    text-transform: uppercase;
+	font-weight: 700;
+	font-size: 1.1rem;
+	color: #333;
+}
+footer{
+    color: #fff;
+    background-color: #333;
+    font-size: 1rem;
+}
